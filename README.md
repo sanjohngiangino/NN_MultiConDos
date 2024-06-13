@@ -20,4 +20,5 @@ INSTRUCTION:
 4)RUN ALL
 
 5)FINAL RESULTS 
-  
+  ![Alt Text]((https://github.com/sanjohngiangino/NN_MultiConDos/blob/main/disc_loss_t1ce.png))
+

@@ -14,7 +14,9 @@ INSTRUCTION:
 2)OPEN MultiConDos_Light.ipynb
 
 3)UNZIP DATA.zip and modify
+
      DATA_CONFIG with your desired path for train the DSGAN (one for t1ce and one for t2)
+     
      DATA_CONFIG_FINE for the finetuning part (one for t1ce and one for the mask)
    
 4)RUN ALL
